@@ -13,7 +13,7 @@
     "compressorjs": "^1.0.6",
     "core-js": "^3.6.4",
     "material-design-icons-iconfont": "^5.0.1",
-    "urijs": "^1.19.2",
+    "urijs": "^1.19.6",
     "validator": "^13.0.0",
     "vue": "^2.6.11",
     "vue-gtag": "^1.6.2",
